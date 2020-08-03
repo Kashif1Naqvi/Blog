@@ -1,0 +1,11 @@
+img {
+    width: 250px;
+    height: auto;
+    background-size: cover;
+}
+img:hover {
+    position: relative;
+    overflow: hidden;
+    opacity: 0.8;
+    transition: 0.3s;
+}

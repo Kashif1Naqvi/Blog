@@ -1,0 +1,14 @@
+{
+    "spellright.language": [
+        "en"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext",
+        "javascriptreact"
+    ],
+    "workbench.colorCustomizations": {
+        "tab.unfocusedActiveBorder": "#fff0"
+    }
+}
