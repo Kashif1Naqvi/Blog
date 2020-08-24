@@ -1,3 +1,24 @@
+This Project I made with Reactjs backend with Elixer Api's
+
+This Project is made on the base of news daily bases.In which three roles 
+one for public on for user and one for admin.
+In public site every public user see posts but not edit or update but if user login with their Email and password then user have a permission to
+Edit and Create their post but not a permission to delete but Admin have a permission to update delete create Post
+
+Features
+* Login 
+* Register
+* Role Management
+* Admin rights
+* User Rights
+* Public rights
+* Routes Management
+and more.
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
